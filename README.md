@@ -1,6 +1,6 @@
 # DEEPFRUITS
 
-![Image text](image.png)
+![Image text](.img/image.png)
 
 ## A propos
 
@@ -39,13 +39,13 @@ py app.py
 
 l'objectif de notre application est de faciliter à l'utilisateur d'évaluer notre système qu'on a développé . Dans cette partie l'utilisateur trouvera deux boutons ,le premier pour importer l'image puis le deuxième pour lancer le processus de prédiction et obtenir le résultat.
 
-![Image text](interface.png)
+![Image text](.img/interface.png)
 
 ## Contribution
 ***
 
 le manque du dataset est l'un des problème rencontré lors du développement de ce projet, alors l'utilisateur peut contribuer à travers la collecte des images qu'il fournira, en cliquant sur le bouton Ajouter qui s'affiche dès que l'image soit prédite avec au moins 90% d'exactitude.
 
-![Image text](demo.png)
+![Image text](.img/demo.png)
 
 Ces images là vont être consultées périodiquement par l'équipe du projet qui sélectionnera les bonnes images qui vont enrichir le dataset et ré-entraîner le modèle sur le nouveau dataset.
