@@ -44,7 +44,7 @@ l'objectif de notre application est de faciliter à l'utilisateur d'évaluer not
 ## Contribution
 ***
 
-le manque du dataset est l'un des problème rencontré lors du développement de ce projet, alors l'utilisateur peut contribuer à travers la collecte des images qu'il fournira, en cliquant sur le bouton Ajouter qui s'affiche dès que l'image soit prédite avec au moins 90% d'exactitude.
+le manque du dataset est l'un des problèmes rencontrés lors du développement de ce projet, alors l'utilisateur peut contribuer à travers la collecte des images qu'il fournira, en cliquant sur le bouton Ajouter qui s'affiche dès que l'image soit prédite avec au moins 90% d'exactitude.
 
 ![Image text](.img/demo.png)
 
